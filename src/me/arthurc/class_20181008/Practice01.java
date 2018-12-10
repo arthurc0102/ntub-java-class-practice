@@ -1,4 +1,4 @@
-package me.arthurc.class_1008;
+package me.arthurc.class_20181008;
 
 import java.util.Date;
 

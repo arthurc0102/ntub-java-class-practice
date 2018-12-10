@@ -1,4 +1,4 @@
-package me.arthurc.class_1029;
+package me.arthurc.class_20181029;
 
 import java.util.Scanner;
 import java.util.stream.Collectors;

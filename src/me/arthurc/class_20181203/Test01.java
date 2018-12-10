@@ -1,4 +1,4 @@
-package me.arthurc.class_1203;
+package me.arthurc.class_20181203;
 
 public class Test01 {
 

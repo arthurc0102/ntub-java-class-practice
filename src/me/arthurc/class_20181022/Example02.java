@@ -1,4 +1,4 @@
-package me.arthurc.class_1022;
+package me.arthurc.class_20181022;
 
 import java.util.stream.IntStream;
 

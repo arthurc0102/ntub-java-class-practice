@@ -1,4 +1,4 @@
-package me.arthurc.class_1029;
+package me.arthurc.class_20181029;
 
 public class Practice02 {
 
